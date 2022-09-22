@@ -3,7 +3,8 @@
 
 You've been hired on as a backend developer at a new startup called WeLoveMovies! As another developer works on the design and frontend experience, you have been tasked with setting up a database and building out specific routes so that users can gain access to data about movies, theaters, and reviews.
 
-![weLoveMovies])(WeLoveMovies.png)
+![foxdemo](https://images.ctfassets.net/c7lxnbtvvcxm/3xzgFVIxgNM4H53CsJkKJa/64c51046aa810105e3ef4af77867a6f7/WeLoveMovies.png)
+
 
 ## Learning objectives
 This project is designed to test your ability to build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate that you can do the following:
